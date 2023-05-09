@@ -10,3 +10,4 @@ A curated list of Julia resources.
 ## Notes:
 - [Documentation](https://documentation.divio.com/): Interesting ideas on how to approach documentation 
 - [SemanticVersioning](https://semver.org/): Discusses about the versioning system of packages
+- [Memory by Ulrich Drepper](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf): Discusses about what every programmer should know about Memory
